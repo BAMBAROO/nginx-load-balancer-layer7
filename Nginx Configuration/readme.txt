@@ -1,0 +1,1 @@
+change your nginx.conf with new configuration nginx.conf
